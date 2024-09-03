@@ -33,5 +33,3 @@ Open the Project: Open the .pbix file in Power BI Desktop to explore the dashboa
 Conclusion
 This project offers a deep dive into Spotify's streaming data, providing valuable insights into what makes certain tracks popular and how streaming behavior has evolved over time. The dashboard is a powerful tool for music industry analysts, marketers, and enthusiasts looking to understand the dynamics of music consumption on Spotify.
 
-Contact
-For any questions or further information, feel free to contact me at [your-email@example.com].
