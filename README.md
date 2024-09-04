@@ -1,6 +1,5 @@
 # Spotify Analytics Dashboard
-
-
+![Dashboard](dashboard.jpg)
 Overview
 This project is a comprehensive Power BI dashboard designed to visualize and analyze Spotify's streaming data. The dashboard offers insights into the most streamed tracks, artists, and general trends in music consumption on Spotify, focusing on data from 2017 to 2023. The analysis includes various metrics such as the number of streams, track popularity, and audio features like danceability, energy, and acousticness.
 
